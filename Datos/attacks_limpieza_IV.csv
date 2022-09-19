@@ -1,4 +1,4 @@
-case_number,year,type,country,area,location,activity,name,time,species,siglo,injury,mes,fatal_bien,genero_bien,categorias_tiburones,edades
+case_number,year,type,country,area,location,activity,name,time,species,siglo,injury,mes,fatal,genero,categorias_tiburones,edades
 2018.06.25,2018,Boating,usa,California,"Oceanside, San Diego County",Paddling,Julie Wolfe,18h00,White shark,siglo - XXI,"No injury to occupant, outrigger canoe and paddle damaged",Jun,N,F,White,57.0
 2018.06.03.a,2018,Unprovoked,brazil,Pernambuco,"Piedade Beach, Recife",Swimming,Jose Ernesto da Silva ,Late afternoon,Tiger shark,siglo - XXI,FATAL,Jun,Y,M,Tiger,18.0
 2018.05.26.b,2018,Unprovoked,usa,Florida,"Cocoa Beach, Brevard  County",Walking,Cody High,17h00,"Bull shark, 6'",siglo - XXI,Lower left leg bitten,May,N,M,Bull,15.0
